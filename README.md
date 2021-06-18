@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Javier Muñoz Dunstan 👋 </h1>
 <h3 align="center">🚀 Frontend Developer | Arduino lover ♥ | Open Source 🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+    <img width="auto" align="right" alt="PIC" height="350px" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"/>
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
