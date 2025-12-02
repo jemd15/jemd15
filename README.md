@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤔   Exploring new technologies and developing software solutions and quick hacks.<br>🎓   Computer Science Engineer.<br>🌱   Learning more about Backend Architecture and Frontend Development.<br>👷🏻‍♂️   Making DIY projects of domotics and Gaming as hobbies.
+🤔   Exploring new technologies and developing software solutions and quick hacks.<br>🎓   Software Engineer.<br>🌱   Learning more about Backend Architecture and Frontend Development.<br>👷🏻‍♂️   Making DIY projects of domotics and Gaming as hobbies.
 
 
 ## 🌐 Socials:
